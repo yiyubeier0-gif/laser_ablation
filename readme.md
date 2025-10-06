@@ -17,7 +17,7 @@ This framework provides:
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone <[repository-url](https://github.com/yiyubeier0-gif/laser_ablation.git)>
 cd laser-processing-framework
 
 # Install dependencies
